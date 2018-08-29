@@ -41,8 +41,8 @@ nnoremap <left> <c-w><
 nnoremap <right> <c-w>>
 nnoremap <C-h> <c-w>h
 nnoremap <C-l> <c-w>l 
-
-
+imap <C-V> <ESC>"+pa
+nmap <C-V> "+p
 
 call plug#begin('~/.vim/plugged')
 
