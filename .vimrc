@@ -15,6 +15,7 @@ set hlsearch
 set smartcase
 set ignorecase
 set incsearch
+set paste
 
 set ruler
 set number
